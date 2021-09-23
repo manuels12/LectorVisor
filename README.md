@@ -1,2 +1,2 @@
 # LectorVisor
-[Pagina](TAREAS/INDEX2.HTML)
+[Pagina](./TAREAS/INDEX2.HTML)
